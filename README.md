@@ -1,4 +1,4 @@
-# Premature Baby Neonatal Resuscitation
+# Premature Baby Neonatal Resuscitation
 
 ## Flow measurements to detect resuscitation activity and cycle period
 
