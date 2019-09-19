@@ -7,3 +7,5 @@ The notebook [Repiration Frequence](resp_frequency.ipynb) attempts to provide ro
 The idea is that this model can easily load datasets and deliver some attributes of the ventilation activity, which could be compared against features of the baby to identify potential correlations that indicate good and bad outcomes.
 
 The aim was to produce a mean so of measurement that could eventually be used in real time, looking at a limited set of trailing data, rather than relying on a complete dataset.
+
+Note: if GitHub won't view the notebook above directly, try this link instead to [Jupyter nbviewer](https://nbviewer.jupyter.org/github/philayres/prembaby-respiratory/blob/master/resp_frequency.ipynb)
